@@ -1,0 +1,5 @@
+{"sys_add ", "sys_chdir ", "sys_close ", "sys_dup ", "sys_exec ",
+"sys_exit ", "sys_fork ", "sys_fstat ", "sys_getpid ", "sys_kill ", "sys_link ",
+"sys_mkdir ", "sys_mknod ", "sys_open ", "sys_pipe ", "sys_print_count ",
+"sys_ps ", "sys_read ", "sys_sbrk ", "sys_sleep ", "sys_toggle ",
+"sys_unlink ", "sys_uptime ", "sys_wait ", "sys_write "}
